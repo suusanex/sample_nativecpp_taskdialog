@@ -1,0 +1,2 @@
+# sample_nativecpp_taskdialog
+ネイティブC++からWindowsのTaskDialogを表示するサンプル
